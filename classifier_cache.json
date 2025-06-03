@@ -1,0 +1,34 @@
+{
+    "doom eternal": {
+        "value": "game",
+        "timestamp": 1748954574.9479458
+    },
+    "photoshop": {
+        "value": "program",
+        "timestamp": 1748954574.9990604
+    },
+    "my summer car": {
+        "value": "program",
+        "timestamp": 1748954575.0501819
+    },
+    "steam": {
+        "value": "game",
+        "timestamp": 1748954575.1013212
+    },
+    "some_utility": {
+        "value": "program",
+        "timestamp": 1748954575.1524422
+    },
+    "ярлык_на_неизвестное": {
+        "value": "program",
+        "timestamp": 1748954575.2036054
+    },
+    "valid_shortcut_to_existing": {
+        "value": "program",
+        "timestamp": 1748954796.7250974
+    },
+    "invalid_shortcut": {
+        "value": "program",
+        "timestamp": 1748954796.7764041
+    }
+}

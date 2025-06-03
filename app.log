@@ -1,0 +1,219 @@
+2025-06-03 12:27:54,903 - SmartDesktopOrganizer - INFO - main:14 - Запуск приложения Smart Desktop Organizer
+2025-06-03 12:27:54,903 - SmartDesktopOrganizer - DEBUG - main:15 - Используется файл настроек: /app/settings.json
+2025-06-03 12:27:54,904 - SmartDesktopOrganizer - DEBUG - main:16 - Все настройки: {'log_level': 'DEBUG', 'delete_to_recycle_bin': True, 'default_delete_confirmation': True, 'excluded_folders': ['Корзина', 'Мой компьютер', 'Сетевое окружение', 'Панель управления'], 'excluded_files': ['desktop.ini', 'thumbs.db'], 'enable_googling': True, 'googling_cache_ttl_days': 7, 'sorting_rules': {'folders': {'enabled': True, 'position': 'bottom_right', 'sort_order': 'name_asc'}, 'games': {'enabled': True, 'position': 'top_right', 'sort_order': 'name_asc'}, 'programs': {'enabled': True, 'position': 'left_top', 'sort_order': 'date_desc'}, 'text_files': {'enabled': True, 'position': 'bottom_right_above_folders', 'sort_order': 'name_asc'}, 'other': {'enabled': True, 'position': 'center', 'sort_order': 'date_desc'}}, 'icon_spacing': {'horizontal': 75, 'vertical': 75}, 'grid_size': {'width': 0, 'height': 0}}
+2025-06-03 12:27:54,904 - SmartDesktopOrganizer - INFO - main:17 - Текущий уровень логирования из настроек: DEBUG
+2025-06-03 12:27:54,904 - SmartDesktopOrganizer - WARNING - main:18 - Это тестовое предупреждение.
+2025-06-03 12:27:54,904 - SmartDesktopOrganizer - ERROR - main:19 - Это тестовая ошибка.
+2025-06-03 12:27:54,904 - SmartDesktopOrganizer - INFO - main:28 - Приложение Smart Desktop Organizer завершило работу
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - INFO - main:33 - --- Тестирование операций с рабочим столом и информацией о системе ---
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - DEBUG - desktop_scanner:38 - Desktop path (fallback): /home/swebot/Desktop
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - INFO - desktop_scanner:57 - Стандартный рабочий стол (/home/swebot/Desktop) не найден или недоступен, используется/создана тестовая папка: /app/sandbox_desktop_for_tests
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - INFO - main:35 - Путь к рабочему столу: /app/sandbox_desktop_for_tests
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - WARNING - desktop_scanner:229 - Не удалось получить разрешение экрана. Используются значения по умолчанию (1920x1080).
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - INFO - main:38 - Разрешение экрана: {'width': 1920, 'height': 1080}, DPI: {'x': 96, 'y': 96}
+2025-06-03 12:38:47,286 - SmartDesktopOrganizer - INFO - main:43 - Creating test items in folder: /app/sandbox_desktop_for_tests
+2025-06-03 12:38:47,287 - SmartDesktopOrganizer - INFO - desktop_scanner:96 - Поиск недействительных ярлыков в: /app/sandbox_desktop_for_tests
+2025-06-03 12:38:47,287 - SmartDesktopOrganizer - DEBUG - desktop_scanner:108 - Проверка ярлыка: /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk
+2025-06-03 12:38:47,287 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk.
+2025-06-03 12:38:47,287 - SmartDesktopOrganizer - DEBUG - desktop_scanner:108 - Проверка ярлыка: /app/sandbox_desktop_for_tests/invalid_shortcut.lnk
+2025-06-03 12:38:47,287 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/invalid_shortcut.lnk.
+2025-06-03 12:38:47,287 - SmartDesktopOrganizer - INFO - desktop_scanner:122 - Найдено недействительных ярлыков: 0
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:63 - Найденные недействительные ярлыки: []
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - desktop_scanner:130 - Поиск пустых папок в: /app/sandbox_desktop_for_tests
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Пустая Папка Тест
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Empty Test Folder
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Тестовая пустая папка
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - desktop_scanner:152 - Найдено пустых папок: 3
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:66 - Найденные пустые папки: [{'path': '/app/sandbox_desktop_for_tests/Пустая Папка Тест', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Empty Test Folder', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Тестовая пустая папка', 'reason': 'Папка пуста'}]
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - desktop_scanner:244 - Сбор информации об элементах в: /app/sandbox_desktop_for_tests
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk.
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/invalid_shortcut.lnk.
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - desktop_scanner:286 - Собрана информация о 7 элементах на рабочем столе.
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:69 - Все элементы на рабочем столе (7):
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:74 -   - Пустая Папка Тест (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:74 -   - Empty Test Folder (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:74 -   - existing_file.txt (Тип: file, Расширение: .txt, Цель: None)
+2025-06-03 12:38:47,288 - SmartDesktopOrganizer - INFO - main:74 -   - NonEmpty Test Folder (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:38:47,289 - SmartDesktopOrganizer - INFO - main:74 -   - Тестовая пустая папка (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:38:47,289 - SmartDesktopOrganizer - INFO - main:74 -   - valid_shortcut_to_existing.lnk (Тип: file, Расширение: .lnk, Цель: None)
+2025-06-03 12:38:47,289 - SmartDesktopOrganizer - INFO - main:74 -   - invalid_shortcut.lnk (Тип: file, Расширение: .lnk, Цель: None)
+2025-06-03 12:38:47,289 - SmartDesktopOrganizer - WARNING - main:76 - Тестовое удаление закомментировано для безопасности.
+2025-06-03 12:38:47,289 - SmartDesktopOrganizer - INFO - main:77 - --- Конец тестирования операций с рабочим столом ---
+2025-06-03 12:42:54,893 - SmartDesktopOrganizer - INFO - main:33 - --- Тестирование операций с рабочим столом и информацией о системе ---
+2025-06-03 12:42:54,893 - SmartDesktopOrganizer - DEBUG - desktop_scanner:38 - Desktop path (fallback): /home/swebot/Desktop
+2025-06-03 12:42:54,893 - SmartDesktopOrganizer - INFO - desktop_scanner:57 - Стандартный рабочий стол (/home/swebot/Desktop) не найден или недоступен, используется/создана тестовая папка: /app/sandbox_desktop_for_tests
+2025-06-03 12:42:54,893 - SmartDesktopOrganizer - INFO - main:35 - Путь к рабочему столу: /app/sandbox_desktop_for_tests
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - WARNING - desktop_scanner:229 - Не удалось получить разрешение экрана. Используются значения по умолчанию (1920x1080).
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - INFO - main:38 - Разрешение экрана: {'width': 1920, 'height': 1080}, DPI: {'x': 96, 'y': 96}
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - INFO - main:42 - Creating test items in folder: /app/sandbox_desktop_for_tests
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - INFO - desktop_scanner:96 - Поиск недействительных ярлыков в: /app/sandbox_desktop_for_tests
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - DEBUG - desktop_scanner:108 - Проверка ярлыка: /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk.
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - DEBUG - desktop_scanner:108 - Проверка ярлыка: /app/sandbox_desktop_for_tests/invalid_shortcut.lnk
+2025-06-03 12:42:54,894 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/invalid_shortcut.lnk.
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - desktop_scanner:122 - Найдено недействительных ярлыков: 0
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - main:57 - Найденные недействительные ярлыки: []
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - desktop_scanner:130 - Поиск пустых папок в: /app/sandbox_desktop_for_tests
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Пустая Папка Тест
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Empty Test Folder
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Тестовая пустая папка
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - desktop_scanner:152 - Найдено пустых папок: 3
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - main:60 - Найденные пустые папки: [{'path': '/app/sandbox_desktop_for_tests/Пустая Папка Тест', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Empty Test Folder', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Тестовая пустая папка', 'reason': 'Папка пуста'}]
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - desktop_scanner:244 - Сбор информации об элементах в: /app/sandbox_desktop_for_tests
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk.
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/invalid_shortcut.lnk.
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - desktop_scanner:286 - Собрана информация о 7 элементах на рабочем столе.
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - main:63 - Все элементы на рабочем столе (7):
+2025-06-03 12:42:54,895 - SmartDesktopOrganizer - INFO - main:65 -   - Пустая Папка Тест (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:65 -   - Empty Test Folder (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:65 -   - existing_file.txt (Тип: file, Расширение: .txt, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:65 -   - NonEmpty Test Folder (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:65 -   - Тестовая пустая папка (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:65 -   - valid_shortcut_to_existing.lnk (Тип: file, Расширение: .lnk, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:65 -   - invalid_shortcut.lnk (Тип: file, Расширение: .lnk, Цель: None)
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - WARNING - main:67 - Тестовое удаление закомментировано для безопасности.
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - main:70 - --- Тестирование WebClassifier ---
+2025-06-03 12:42:54,896 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/classifier_cache.json не найден. Будет создан новый.
+2025-06-03 12:42:54,897 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "doom eternal" what is it game software program application utility tool official website download category type
+2025-06-03 12:42:54,947 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=2, program_score=0 для текста: "это популярная игра. обзоры, геймплей, скачать игру...."
+2025-06-03 12:42:54,948 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:42:54,948 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "doom eternal" сохранено в кэше.
+2025-06-03 12:42:54,948 - SmartDesktopOrganizer - INFO - classifier:106 - "doom eternal" классифицирован как "game" по имени файла.
+2025-06-03 12:42:54,948 - SmartDesktopOrganizer - INFO - main:99 - Элемент: "Doom Eternal.exe", Путь: "/app/sandbox_desktop_for_tests/Games/Doom Eternal/Doom Eternal.exe" -> Классификация: game
+2025-06-03 12:42:54,948 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "photoshop" what is it game software program application utility tool official website download category type
+2025-06-03 12:42:54,998 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=0, program_score=3 для текста: "это известная программа для работы. официальный сайт, скачать программу...."
+2025-06-03 12:42:54,999 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:42:54,999 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "photoshop" сохранено в кэше.
+2025-06-03 12:42:54,999 - SmartDesktopOrganizer - INFO - classifier:106 - "photoshop" классифицирован как "program" по имени файла.
+2025-06-03 12:42:54,999 - SmartDesktopOrganizer - INFO - main:99 - Элемент: "Photoshop.lnk", Путь: "/app/sandbox_desktop_for_tests/Graphics Software/Photoshop.lnk" -> Классификация: program
+2025-06-03 12:42:54,999 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "my summer car" what is it game software program application utility tool official website download category type
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=0, program_score=1 для текста: "результаты поиска указывают, что это может быть программа или утилита...."
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "my summer car" сохранено в кэше.
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - INFO - classifier:106 - "my summer car" классифицирован как "program" по имени файла.
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - INFO - main:99 - Элемент: "My Summer Car.exe", Путь: "/app/sandbox_desktop_for_tests/Indie Games/My Summer Car.exe" -> Классификация: program
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - INFO - main:96 - Пропуск классификации для Документ Word.docx (не .exe/.lnk)
+2025-06-03 12:42:55,050 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "steam" what is it game software program application utility tool official website download category type
+2025-06-03 12:42:55,101 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=2, program_score=0 для текста: "это популярная игра. обзоры, геймплей, скачать игру...."
+2025-06-03 12:42:55,101 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:42:55,101 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "steam" сохранено в кэше.
+2025-06-03 12:42:55,101 - SmartDesktopOrganizer - INFO - classifier:106 - "steam" классифицирован как "game" по имени файла.
+2025-06-03 12:42:55,101 - SmartDesktopOrganizer - INFO - main:99 - Элемент: "steam.exe", Путь: "/app/sandbox_desktop_for_tests/Steam/steam.exe" -> Классификация: game
+2025-06-03 12:42:55,101 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "some_utility" what is it game software program application utility tool official website download category type
+2025-06-03 12:42:55,152 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=0, program_score=1 для текста: "результаты поиска указывают, что это может быть программа или утилита...."
+2025-06-03 12:42:55,152 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:42:55,152 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "some_utility" сохранено в кэше.
+2025-06-03 12:42:55,152 - SmartDesktopOrganizer - INFO - classifier:106 - "some_utility" классифицирован как "program" по имени файла.
+2025-06-03 12:42:55,152 - SmartDesktopOrganizer - INFO - main:99 - Элемент: "some_utility.exe", Путь: "/app/sandbox_desktop_for_tests/Tools/some_utility.exe" -> Классификация: program
+2025-06-03 12:42:55,153 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "ярлык_на_неизвестное" what is it game software program application utility tool official website download category type
+2025-06-03 12:42:55,203 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=0, program_score=1 для текста: "результаты поиска указывают, что это может быть программа или утилита...."
+2025-06-03 12:42:55,203 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:42:55,203 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "ярлык_на_неизвестное" сохранено в кэше.
+2025-06-03 12:42:55,204 - SmartDesktopOrganizer - INFO - classifier:106 - "ярлык_на_неизвестное" классифицирован как "program" по имени файла.
+2025-06-03 12:42:55,204 - SmartDesktopOrganizer - INFO - main:99 - Элемент: "ярлык_на_неизвестное.lnk", Путь: "/app/sandbox_desktop_for_tests/ярлык_на_неизвестное.lnk" -> Классификация: program
+2025-06-03 12:42:55,204 - SmartDesktopOrganizer - INFO - main:101 - --- Конец тестирования WebClassifier ---
+2025-06-03 12:42:55,204 - SmartDesktopOrganizer - INFO - main:102 - --- Конец тестирования операций с рабочим столом ---
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - INFO - main:34 - --- Тестирование операций с рабочим столом и информацией о системе ---
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - DEBUG - desktop_scanner:38 - Desktop path (fallback): /home/swebot/Desktop
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - INFO - desktop_scanner:57 - Стандартный рабочий стол (/home/swebot/Desktop) не найден или недоступен, используется/создана тестовая папка: /app/sandbox_desktop_for_tests
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - INFO - main:36 - Путь к рабочему столу: /app/sandbox_desktop_for_tests
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - WARNING - desktop_scanner:229 - Не удалось получить разрешение экрана. Используются значения по умолчанию (1920x1080).
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - INFO - main:39 - Разрешение экрана: {'width': 1920, 'height': 1080}, DPI: {'x': 96, 'y': 96}
+2025-06-03 12:46:36,668 - SmartDesktopOrganizer - INFO - main:43 - Creating test items in folder: /app/sandbox_desktop_for_tests
+2025-06-03 12:46:36,669 - SmartDesktopOrganizer - INFO - desktop_scanner:96 - Поиск недействительных ярлыков в: /app/sandbox_desktop_for_tests
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:108 - Проверка ярлыка: /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk.
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:108 - Проверка ярлыка: /app/sandbox_desktop_for_tests/invalid_shortcut.lnk
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/invalid_shortcut.lnk.
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - INFO - desktop_scanner:122 - Найдено недействительных ярлыков: 0
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - INFO - main:58 - Найденные недействительные ярлыки: []
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - INFO - desktop_scanner:130 - Поиск пустых папок в: /app/sandbox_desktop_for_tests
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Indie Games
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Пустая Папка Тест
+2025-06-03 12:46:36,670 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Empty Test Folder
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Тестовая пустая папка
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Graphics Software
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Tools
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - DEBUG - desktop_scanner:148 - Найдена пустая папка: /app/sandbox_desktop_for_tests/Steam
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - desktop_scanner:152 - Найдено пустых папок: 7
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - main:61 - Найденные пустые папки: [{'path': '/app/sandbox_desktop_for_tests/Indie Games', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Пустая Папка Тест', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Empty Test Folder', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Тестовая пустая папка', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Graphics Software', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Tools', 'reason': 'Папка пуста'}, {'path': '/app/sandbox_desktop_for_tests/Steam', 'reason': 'Папка пуста'}]
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - desktop_scanner:244 - Сбор информации об элементах в: /app/sandbox_desktop_for_tests
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/valid_shortcut_to_existing.lnk.
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - DEBUG - desktop_scanner:74 - pywin32 не доступен или платформа не Windows, не удается получить цель ярлыка /app/sandbox_desktop_for_tests/invalid_shortcut.lnk.
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - desktop_scanner:286 - Собрана информация о 12 элементах на рабочем столе.
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - main:64 - Все элементы на рабочем столе (12):
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - main:66 -   - Indie Games (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - main:66 -   - Пустая Папка Тест (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,671 - SmartDesktopOrganizer - INFO - main:66 -   - Empty Test Folder (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - existing_file.txt (Тип: file, Расширение: .txt, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - NonEmpty Test Folder (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - Тестовая пустая папка (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - Games (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - valid_shortcut_to_existing.lnk (Тип: file, Расширение: .lnk, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - Graphics Software (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - invalid_shortcut.lnk (Тип: file, Расширение: .lnk, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - Tools (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:66 -   - Steam (Тип: folder, Расширение: None, Цель: None)
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - WARNING - main:68 - Тестовое удаление закомментировано для безопасности.
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - main:71 - --- Тестирование WebClassifier ---
+2025-06-03 12:46:36,672 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - DEBUG - cache_manager:56 - Значение для ключа "doom eternal" найдено в кэше и актуально.
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "doom eternal" найдена в кэше: game
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - main:96 - Элемент: "Doom Eternal.exe", Путь: "/app/sandbox_desktop_for_tests/Games/Doom Eternal/Doom Eternal.exe" -> Классификация: game
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - DEBUG - cache_manager:56 - Значение для ключа "photoshop" найдено в кэше и актуально.
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "photoshop" найдена в кэше: program
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - main:96 - Элемент: "Photoshop.lnk", Путь: "/app/sandbox_desktop_for_tests/Graphics Software/Photoshop.lnk" -> Классификация: program
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - DEBUG - cache_manager:56 - Значение для ключа "my summer car" найдено в кэше и актуально.
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "my summer car" найдена в кэше: program
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - main:96 - Элемент: "My Summer Car.exe", Путь: "/app/sandbox_desktop_for_tests/Indie Games/My Summer Car.exe" -> Классификация: program
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - main:93 - Пропуск классификации для Документ Word.docx (не .exe/.lnk)
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - DEBUG - cache_manager:56 - Значение для ключа "steam" найдено в кэше и актуально.
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "steam" найдена в кэше: game
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - main:96 - Элемент: "steam.exe", Путь: "/app/sandbox_desktop_for_tests/Steam/steam.exe" -> Классификация: game
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - DEBUG - cache_manager:56 - Значение для ключа "some_utility" найдено в кэше и актуально.
+2025-06-03 12:46:36,673 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "some_utility" найдена в кэше: program
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - main:96 - Элемент: "some_utility.exe", Путь: "/app/sandbox_desktop_for_tests/Tools/some_utility.exe" -> Классификация: program
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - DEBUG - cache_manager:56 - Значение для ключа "ярлык_на_неизвестное" найдено в кэше и актуально.
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "ярлык_на_неизвестное" найдена в кэше: program
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - main:96 - Элемент: "ярлык_на_неизвестное.lnk", Путь: "/app/sandbox_desktop_for_tests/ярлык_на_неизвестное.lnk" -> Классификация: program
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - main:98 - --- Конец тестирования WebClassifier ---
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - main:101 - --- Тестирование DesktopSorter ---
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - DEBUG - desktop_sorter:35 - Настройки макета загружены: effective_icon_cell_size={'width': 75, 'height': 75}, grid_dimensions={'width': 0, 'height': 0}
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 75, 'height': 75}
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 25, 'height': 14}
+2025-06-03 12:46:36,674 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "valid_shortcut_to_existing" what is it game software program application utility tool official website download category type
+2025-06-03 12:46:36,724 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=0, program_score=1 для текста: "результаты поиска указывают, что это может быть программа или утилита...."
+2025-06-03 12:46:36,725 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:46:36,725 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "valid_shortcut_to_existing" сохранено в кэше.
+2025-06-03 12:46:36,725 - SmartDesktopOrganizer - INFO - classifier:106 - "valid_shortcut_to_existing" классифицирован как "program" по имени файла.
+2025-06-03 12:46:36,725 - SmartDesktopOrganizer - INFO - classifier:45 - Имитация Google поиска для запроса: "invalid_shortcut" what is it game software program application utility tool official website download category type
+2025-06-03 12:46:36,776 - SmartDesktopOrganizer - DEBUG - classifier:69 - Анализ результатов: game_score=0, program_score=1 для текста: "результаты поиска указывают, что это может быть программа или утилита...."
+2025-06-03 12:46:36,776 - SmartDesktopOrganizer - DEBUG - cache_manager:45 - Кэш классификатора успешно сохранен в /app/classifier_cache.json
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - cache_manager:70 - Значение для ключа "invalid_shortcut" сохранено в кэше.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - classifier:106 - "invalid_shortcut" классифицирован как "program" по имени файла.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - desktop_sorter:98 - Элементы классифицированы: 12 шт.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - desktop_sorter:239 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - desktop_sorter:130 - Zone 'folders': Start=(1440,540), SizePx=(480,540), GridCells=(6x7)
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - desktop_sorter:225 - Нет элементов для категории 'games'.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - desktop_sorter:239 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - desktop_sorter:130 - Zone 'programs': Start=(0,0), SizePx=(480,1080), GridCells=(6x14)
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - desktop_sorter:239 - Обработка категории 'text_files' с позицией 'bottom_right_above_folders' (используется зона 'text_files') и сортировкой 'name_asc'.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - desktop_sorter:130 - Zone 'text_files': Start=(480,810), SizePx=(960,270), GridCells=(12x3)
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - DEBUG - desktop_sorter:225 - Нет элементов для категории 'other'.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - desktop_sorter:255 - Сформирован план размещения для 12 элементов.
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:135 - План размещения (12 элементов):
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Empty Test Folder              Категория: folders    Новые коорд.: {'x': 1815, 'y': 990}
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Games                          Категория: folders    Новые коорд.: {'x': 1740, 'y': 990}
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Graphics Software              Категория: folders    Новые коорд.: {'x': 1665, 'y': 990}
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Indie Games                    Категория: folders    Новые коорд.: {'x': 1590, 'y': 990}
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: NonEmpty Test Folder           Категория: folders    Новые коорд.: {'x': 1515, 'y': 990}
+2025-06-03 12:46:36,777 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Steam                          Категория: folders    Новые коорд.: {'x': 1440, 'y': 990}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Tools                          Категория: folders    Новые коорд.: {'x': 1815, 'y': 915}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Пустая Папка Тест              Категория: folders    Новые коорд.: {'x': 1740, 'y': 915}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: Тестовая пустая папка          Категория: folders    Новые коорд.: {'x': 1665, 'y': 915}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: valid_shortcut_to_existing.lnk Категория: programs   Новые коорд.: {'x': 0, 'y': 0}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: invalid_shortcut.lnk           Категория: programs   Новые коорд.: {'x': 75, 'y': 0}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: existing_file.txt              Категория: text_files Новые коорд.: {'x': 480, 'y': 960}
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:139 - --- Конец тестирования DesktopSorter ---
+2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:140 - --- Конец тестирования операций с рабочим столом ---

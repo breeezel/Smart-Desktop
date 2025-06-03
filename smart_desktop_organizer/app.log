@@ -1,0 +1,6 @@
+2025-06-03 12:24:00,989 - SmartDesktopOrganizer - INFO - Файл настроек /app/settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:24:00,989 - SmartDesktopOrganizer - INFO - Настройки успешно сохранены в /app/settings.json
+2025-06-03 12:24:00,990 - SmartDesktopOrganizer - INFO - Запуск приложения Smart Desktop Organizer
+2025-06-03 12:24:00,990 - SmartDesktopOrganizer - INFO - Уровень логирования из настроек: INFO
+2025-06-03 12:24:00,990 - SmartDesktopOrganizer - INFO - Удалять в корзину: True
+2025-06-03 12:24:00,990 - SmartDesktopOrganizer - INFO - Приложение Smart Desktop Organizer завершило работу
