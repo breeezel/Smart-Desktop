@@ -217,3 +217,658 @@
 2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:137 -   - Элемент: existing_file.txt              Категория: text_files Новые коорд.: {'x': 480, 'y': 960}
 2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:139 - --- Конец тестирования DesktopSorter ---
 2025-06-03 12:46:36,778 - SmartDesktopOrganizer - INFO - main:140 - --- Конец тестирования операций с рабочим столом ---
+2025-06-03 12:52:58,706 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,708 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,709 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,709 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,709 - SmartDesktopOrganizer - INFO - settings:45 - Настройки успешно загружены из /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,710 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,711 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,711 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,711 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,711 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,712 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,712 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,713 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,713 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,714 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,714 - SmartDesktopOrganizer - INFO - settings:81 - Настройки сброшены к значениям по умолчанию.
+2025-06-03 12:52:58,714 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,714 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,715 - SmartDesktopOrganizer - WARNING - settings:48 - Ошибка декодирования JSON в файле /app/test_temp_config_settings/test_settings.json. Используются настройки по умолчанию.
+2025-06-03 12:52:58,715 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_config_settings/test_settings.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:52:58,715 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:52:58,715 - SmartDesktopOrganizer - INFO - settings:45 - Настройки успешно загружены из /app/test_temp_config_settings/test_settings.json
+2025-06-03 12:54:33,371 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,371 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,371 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,371 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,372 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,372 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,373 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,373 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,373 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,374 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,375 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,375 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,375 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,375 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,375 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,376 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,376 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,376 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,377 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/test_temp_cache_mgr/test_cache.json
+2025-06-03 12:54:33,378 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,378 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,379 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,379 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,379 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,380 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,380 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,380 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,381 - SmartDesktopOrganizer - INFO - cache_manager:83 - Кэш классификатора очищен.
+2025-06-03 12:54:33,381 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,382 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,382 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,382 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,382 - SmartDesktopOrganizer - WARNING - cache_manager:31 - Ошибка декодирования JSON в файле кэша /app/test_temp_cache_mgr/test_cache.json. Создается новый кэш.
+2025-06-03 12:54:33,383 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_cache_mgr/test_settings_for_cache.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:54:33,383 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,384 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,384 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,384 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_cache_mgr/test_settings_for_cache.json
+2025-06-03 12:54:33,384 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_cache_mgr/test_cache.json не найден. Будет создан новый.
+2025-06-03 12:54:33,385 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/test_temp_cache_mgr/test_cache.json
+2025-06-03 12:57:02,360 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,361 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,361 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,362 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,363 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,367 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,368 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,368 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,369 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,370 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,371 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,372 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,373 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,374 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,374 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,377 - SmartDesktopOrganizer - INFO - classifier:106 - "mygame" классифицирован как "game" по имени файла.
+2025-06-03 12:57:02,378 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,378 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,379 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,380 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,380 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,381 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "mycachedgame" найдена в кэше: game
+2025-06-03 12:57:02,382 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,383 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,384 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,384 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,385 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,386 - SmartDesktopOrganizer - INFO - classifier:106 - "obscureapp" классифицирован как "program" по имени файла.
+2025-06-03 12:57:02,396 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,397 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,398 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,399 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,400 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,401 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,401 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,402 - SmartDesktopOrganizer - INFO - classifier:84 - Гугление отключено в настройках. Классификация не будет выполнена.
+2025-06-03 12:57:02,403 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:57:02,404 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,404 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,405 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:57:02,406 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:57:02,408 - SmartDesktopOrganizer - INFO - classifier:133 - Не удалось классифицировать "veryobscure". Помечен как "unknown".
+2025-06-03 12:57:02,410 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "veryobscure" найдена в кэше: unknown
+2025-06-03 12:58:14,563 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,564 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,564 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,565 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,566 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,567 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,567 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,567 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,568 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,568 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,569 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,569 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,569 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,570 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,571 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,571 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "mygame" найдена в кэше: game
+2025-06-03 12:58:14,572 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,572 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,573 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,573 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,574 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,575 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "mycachedgame" найдена в кэше: game
+2025-06-03 12:58:14,575 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,575 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,576 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,576 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,576 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,577 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "obscureapp" найдена в кэше: program
+2025-06-03 12:58:14,577 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,578 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,578 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,579 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,579 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,579 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,580 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,580 - SmartDesktopOrganizer - INFO - classifier:85 - Гугление отключено в настройках. Классификация не будет выполнена.
+2025-06-03 12:58:14,580 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 12:58:14,581 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,581 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,582 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 12:58:14,582 - SmartDesktopOrganizer - INFO - cache_manager:28 - Кэш классификатора успешно загружен из /app/classifier_cache.json
+2025-06-03 12:58:14,582 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "veryobscure" найдена в кэше: unknown
+2025-06-03 13:00:31,280 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,281 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,281 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,282 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,282 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,283 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,283 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,283 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,284 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,284 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,284 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,284 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,285 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,285 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,285 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,287 - SmartDesktopOrganizer - INFO - classifier:104 - "mygame" классифицирован как "game" по имени файла.
+2025-06-03 13:00:31,287 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,287 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,288 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,289 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,289 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,290 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "mycachedgame" найдена в кэше: game
+2025-06-03 13:00:31,290 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,291 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,291 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,292 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,292 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,293 - SmartDesktopOrganizer - INFO - classifier:104 - "obscureapp" классифицирован как "program" по имени файла.
+2025-06-03 13:00:31,294 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,294 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,294 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,295 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,295 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,295 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,296 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,296 - SmartDesktopOrganizer - INFO - classifier:85 - Гугление отключено в настройках. Классификация не будет выполнена.
+2025-06-03 13:00:31,296 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:00:31,297 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,297 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,298 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:00:31,298 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:00:31,298 - SmartDesktopOrganizer - INFO - classifier:129 - Не удалось классифицировать "veryobscure". Помечен как "unknown".
+2025-06-03 13:00:31,299 - SmartDesktopOrganizer - INFO - classifier:95 - Категория для "veryobscure" найдена в кэше: unknown
+2025-06-03 13:01:22,972 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,972 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,973 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,973 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,973 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,974 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,975 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,975 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,975 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,976 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,977 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,978 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,978 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,979 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,979 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,981 - SmartDesktopOrganizer - INFO - classifier:105 - "mygame" классифицирован как "game" по имени файла.
+2025-06-03 13:01:22,981 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,981 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,981 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,982 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,982 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,983 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "mycachedgame" найдена в кэше: game
+2025-06-03 13:01:22,983 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,984 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,984 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,984 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,985 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,986 - SmartDesktopOrganizer - INFO - classifier:127 - "obscureapp" классифицирован как "game" по родительской папке "coolgamedevkit".
+2025-06-03 13:01:22,987 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,987 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,987 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,988 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,988 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,989 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,989 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,990 - SmartDesktopOrganizer - INFO - classifier:86 - Гугление отключено в настройках. Классификация не будет выполнена.
+2025-06-03 13:01:22,990 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:01:22,990 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,990 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,991 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:01:22,991 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:01:22,992 - SmartDesktopOrganizer - INFO - classifier:130 - Не удалось классифицировать "veryobscure". Помечен как "unknown".
+2025-06-03 13:01:22,992 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "veryobscure" найдена в кэше: unknown
+2025-06-03 13:03:05,393 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,394 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,394 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,395 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,395 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,396 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,396 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,397 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,397 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,397 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,399 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,400 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,400 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,401 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,401 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,402 - SmartDesktopOrganizer - INFO - classifier:105 - "mygame" классифицирован как "game" по имени файла.
+2025-06-03 13:03:05,402 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,403 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,403 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,403 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,404 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,404 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "mycachedgame" найдена в кэше: game
+2025-06-03 13:03:05,405 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,405 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,405 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,406 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,406 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,407 - SmartDesktopOrganizer - INFO - classifier:127 - "obscureapp" классифицирован как "program" по родительской папке "coolgamedevkit".
+2025-06-03 13:03:05,407 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,408 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,408 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,408 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,409 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,409 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,409 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,410 - SmartDesktopOrganizer - INFO - classifier:86 - Гугление отключено в настройках. Классификация не будет выполнена.
+2025-06-03 13:03:05,410 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_classifier_tests/test_settings_for_classifier.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:03:05,410 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,410 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,411 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_classifier_tests/test_settings_for_classifier.json
+2025-06-03 13:03:05,411 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_classifier_tests/test_cache_for_classifier.json не найден. Будет создан новый.
+2025-06-03 13:03:05,412 - SmartDesktopOrganizer - INFO - classifier:130 - Не удалось классифицировать "veryobscure". Помечен как "unknown".
+2025-06-03 13:03:05,412 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "veryobscure" найдена в кэше: unknown
+2025-06-03 13:10:50,973 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:10:50,974 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,982 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:10:50,983 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,984 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:10:50,984 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,986 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,987 - SmartDesktopOrganizer - INFO - desktop_scanner:96 - Поиск недействительных ярлыков в: /app/test_temp_scanner_tests/TestDesktop
+2025-06-03 13:10:50,987 - SmartDesktopOrganizer - INFO - desktop_scanner:122 - Найдено недействительных ярлыков: 2
+2025-06-03 13:10:50,988 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:10:50,988 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,990 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,990 - SmartDesktopOrganizer - INFO - desktop_scanner:130 - Поиск пустых папок в: /app/test_temp_scanner_tests/TestDesktop
+2025-06-03 13:10:50,990 - SmartDesktopOrganizer - INFO - desktop_scanner:152 - Найдено пустых папок: 2
+2025-06-03 13:10:50,991 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:10:50,991 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:50,991 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:10:50,992 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:51,013 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:51,014 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:10:51,014 - SmartDesktopOrganizer - INFO - desktop_scanner:244 - Сбор информации об элементах в: /app/test_temp_scanner_tests/TestDesktop
+2025-06-03 13:10:51,015 - SmartDesktopOrganizer - INFO - desktop_scanner:286 - Собрана информация о 3 элементах на рабочем столе.
+2025-06-03 13:12:00,007 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:12:00,008 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,011 - SmartDesktopOrganizer - INFO - desktop_scanner:91 - Стандартный рабочий стол (/home/testuser_no_desktop/Desktop) не найден или недоступен.
+2025-06-03 13:12:00,012 - SmartDesktopOrganizer - INFO - desktop_scanner:97 - Используется/создана тестовая папка для рабочего стола: /app/sandbox_desktop_for_tests
+2025-06-03 13:12:00,013 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:12:00,013 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,017 - SmartDesktopOrganizer - ERROR - desktop_scanner:116 - Ошибка при разрешении ярлыка fake_error.lnk: COM Error
+2025-06-03 13:12:00,017 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:12:00,018 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,020 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,021 - SmartDesktopOrganizer - INFO - desktop_scanner:125 - Поиск недействительных ярлыков в: /app/test_temp_scanner_tests/TestDesktop
+2025-06-03 13:12:00,021 - SmartDesktopOrganizer - INFO - desktop_scanner:147 - Найдено недействительных ярлыков: 2
+2025-06-03 13:12:00,021 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:12:00,021 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,023 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,023 - SmartDesktopOrganizer - INFO - desktop_scanner:155 - Поиск пустых папок в: /app/test_temp_scanner_tests/TestDesktop
+2025-06-03 13:12:00,023 - SmartDesktopOrganizer - INFO - desktop_scanner:174 - Найдено пустых папок: 2
+2025-06-03 13:12:00,024 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:12:00,024 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,026 - SmartDesktopOrganizer - INFO - desktop_scanner:196 - Разрешение основного монитора (screeninfo): 1920x1080
+2025-06-03 13:12:00,027 - SmartDesktopOrganizer - WARNING - desktop_scanner:203 - Не удалось определить основной монитор через screeninfo (список мониторов пуст или нет primary).
+2025-06-03 13:12:00,028 - SmartDesktopOrganizer - INFO - desktop_scanner:212 - Разрешение основного монитора (win32api): 1600x900
+2025-06-03 13:12:00,029 - SmartDesktopOrganizer - INFO - desktop_scanner:221 - DPI системы (pywin32): X=144, Y=144
+2025-06-03 13:12:00,029 - SmartDesktopOrganizer - WARNING - desktop_scanner:226 - Не удалось получить разрешение экрана. Используются значения по умолчанию (1920x1080).
+2025-06-03 13:12:00,030 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_scanner_tests/test_settings_for_scanner.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:12:00,030 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,051 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,052 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_scanner_tests/test_settings_for_scanner.json
+2025-06-03 13:12:00,052 - SmartDesktopOrganizer - INFO - desktop_scanner:239 - Сбор информации об элементах в: /app/test_temp_scanner_tests/TestDesktop
+2025-06-03 13:12:00,053 - SmartDesktopOrganizer - INFO - desktop_scanner:280 - Собрана информация о 3 элементах на рабочем столе.
+2025-06-03 13:13:42,039 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:13:42,040 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,041 - SmartDesktopOrganizer - WARNING - file_operations:32 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:13:42,041 - SmartDesktopOrganizer - INFO - file_operations:63 - Файл/ярлык /app/test_temp_file_ops_tests/file1_to_delete.txt безвозвратно удален.
+2025-06-03 13:13:42,042 - SmartDesktopOrganizer - INFO - file_operations:66 - Папка /app/test_temp_file_ops_tests/folder1_to_delete безвозвратно удалена.
+2025-06-03 13:13:42,042 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:13:42,043 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,047 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:13:42,047 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,051 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:13:42,052 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,052 - SmartDesktopOrganizer - WARNING - file_operations:32 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:13:42,053 - SmartDesktopOrganizer - ERROR - file_operations:69 - Ошибка при удалении элемента /app/test_temp_file_ops_tests/file1_to_delete.txt: Permission denied
+2025-06-03 13:13:42,053 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:13:42,054 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,054 - SmartDesktopOrganizer - WARNING - file_operations:32 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:13:42,054 - SmartDesktopOrganizer - WARNING - file_operations:42 - Элемент /app/test_temp_file_ops_tests/non_existent_file.txt не найден, пропуск удаления.
+2025-06-03 13:13:42,055 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:13:42,055 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,058 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:13:42,058 - SmartDesktopOrganizer - INFO - file_operations:63 - Файл/ярлык /app/test_temp_file_ops_tests/file1_to_delete.txt безвозвратно удален.
+2025-06-03 13:13:42,060 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,278 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:16:07,279 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,280 - SmartDesktopOrganizer - WARNING - file_operations:33 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:16:07,280 - SmartDesktopOrganizer - INFO - file_operations:54 - Файл/ярлык /app/test_temp_file_ops_tests/file1_to_delete.txt безвозвратно удален.
+2025-06-03 13:16:07,280 - SmartDesktopOrganizer - INFO - file_operations:57 - Папка /app/test_temp_file_ops_tests/folder1_to_delete безвозвратно удалена.
+2025-06-03 13:16:07,281 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:16:07,281 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,282 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,284 - SmartDesktopOrganizer - INFO - file_operations:50 - Элемент /app/test_temp_file_ops_tests/file1_to_delete.txt перемещен в корзину.
+2025-06-03 13:16:07,285 - SmartDesktopOrganizer - INFO - file_operations:50 - Элемент /app/test_temp_file_ops_tests/folder1_to_delete перемещен в корзину.
+2025-06-03 13:16:07,285 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:16:07,286 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,287 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,287 - SmartDesktopOrganizer - WARNING - file_operations:33 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:16:07,288 - SmartDesktopOrganizer - INFO - file_operations:54 - Файл/ярлык /app/test_temp_file_ops_tests/file1_to_delete.txt безвозвратно удален.
+2025-06-03 13:16:07,288 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:16:07,288 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,289 - SmartDesktopOrganizer - WARNING - file_operations:33 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:16:07,289 - SmartDesktopOrganizer - ERROR - file_operations:60 - Ошибка при удалении элемента /app/test_temp_file_ops_tests/file1_to_delete.txt: Permission denied
+2025-06-03 13:16:07,289 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:16:07,290 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,290 - SmartDesktopOrganizer - WARNING - file_operations:33 - Удаление в корзину запрошено, но winshell не доступен или платформа не Windows. Будет выполнено безвозвратное удаление.
+2025-06-03 13:16:07,290 - SmartDesktopOrganizer - WARNING - file_operations:43 - Элемент /app/test_temp_file_ops_tests/non_existent_file.txt не найден, пропуск удаления.
+2025-06-03 13:16:07,291 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_file_ops_tests/test_settings_for_file_ops.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:16:07,291 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,293 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,293 - SmartDesktopOrganizer - INFO - file_operations:54 - Файл/ярлык /app/test_temp_file_ops_tests/file1_to_delete.txt безвозвратно удален.
+2025-06-03 13:16:07,294 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_file_ops_tests/test_settings_for_file_ops.json
+2025-06-03 13:16:07,295 - SmartDesktopOrganizer - INFO - file_operations:50 - Элемент /app/test_temp_file_ops_tests/file1_to_delete.txt перемещен в корзину.
+2025-06-03 13:18:16,747 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:18:16,748 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,748 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,749 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,749 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,749 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:18:16,750 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:18:16,750 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,750 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,750 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:18:16,750 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,751 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,751 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1600, 'height': 900}, масштаб DPI={'x': 1.5, 'y': 1.5}
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,752 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,753 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:18:16,753 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,753 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,754 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,755 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,755 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:18:16,755 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:18:16,755 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,755 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,756 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:18:16,756 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,757 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,757 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,758 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,758 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:18:16,758 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:18:16,758 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,758 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,759 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:18:16,759 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,759 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,760 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,760 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:18:16,761 - SmartDesktopOrganizer - INFO - desktop_sorter:63 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:18:16,762 - SmartDesktopOrganizer - INFO - desktop_sorter:239 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:18:16,762 - SmartDesktopOrganizer - INFO - desktop_sorter:239 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:18:16,762 - SmartDesktopOrganizer - INFO - desktop_sorter:239 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:18:16,762 - SmartDesktopOrganizer - INFO - desktop_sorter:255 - Сформирован план размещения для 4 элементов.
+2025-06-03 13:19:08,617 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:19:08,618 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,618 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,619 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,619 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,619 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:19:08,619 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:19:08,619 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,619 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,620 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:19:08,620 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,620 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,621 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,621 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,621 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1600, 'height': 900}, масштаб DPI={'x': 1.5, 'y': 1.5}
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,622 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:19:08,623 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,623 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,624 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,624 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,624 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:19:08,624 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:19:08,625 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,625 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,625 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:19:08,626 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,626 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,627 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,627 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,627 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:19:08,627 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:19:08,627 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,627 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,628 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:19:08,628 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,628 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,629 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,629 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:55 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:56 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:71 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:19:08,630 - SmartDesktopOrganizer - INFO - desktop_sorter:247 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:19:08,631 - SmartDesktopOrganizer - INFO - desktop_sorter:247 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:19:08,631 - SmartDesktopOrganizer - INFO - desktop_sorter:247 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:19:08,631 - SmartDesktopOrganizer - INFO - desktop_sorter:263 - Сформирован план размещения для 4 элементов.
+2025-06-03 13:20:45,924 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:20:45,924 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,924 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,925 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,926 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,926 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:20:45,926 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:20:45,926 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,926 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,927 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:20:45,927 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,927 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1600, 'height': 900}, масштаб DPI={'x': 1.5, 'y': 1.5}
+2025-06-03 13:20:45,928 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,929 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,929 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:20:45,929 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,930 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,930 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,931 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,931 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:20:45,931 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:20:45,931 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,931 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,932 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:20:45,933 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,933 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,934 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,934 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,934 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:20:45,934 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:20:45,934 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,935 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,935 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:20:45,935 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,935 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,936 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,936 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:20:45,936 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:20:45,936 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:58 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:74 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:250 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:250 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:20:45,937 - SmartDesktopOrganizer - INFO - desktop_sorter:250 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:20:45,938 - SmartDesktopOrganizer - INFO - desktop_sorter:266 - Сформирован план размещения для 4 элементов.
+2025-06-03 13:22:14,434 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:22:14,434 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,434 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,435 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:22:14,436 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,437 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,437 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1600, 'height': 900}, масштаб DPI={'x': 1.5, 'y': 1.5}
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 20, 'height': 10}
+2025-06-03 13:22:14,438 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:22:14,439 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,439 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,439 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,440 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,440 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:22:14,440 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:22:14,440 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,440 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:22:14,441 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:22:14,441 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,441 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,442 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_sorter_tests/test_settings_for_sorter.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:22:14,443 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,444 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,444 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,445 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_sorter_tests/test_settings_for_sorter.json
+2025-06-03 13:22:14,445 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_sorter_tests/test_cache_for_sorter_classifier.json не найден. Будет создан новый.
+2025-06-03 13:22:14,445 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:22:14,445 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,445 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:22:14,445 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:22:14,446 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 80, 'height': 90}
+2025-06-03 13:22:14,446 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 24, 'height': 12}
+2025-06-03 13:22:14,446 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:22:14,446 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:22:14,446 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:22:14,446 - SmartDesktopOrganizer - INFO - desktop_sorter:267 - Сформирован план размещения для 4 элементов.
+2025-06-03 13:24:07,668 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_integration_tests/test_settings_integration.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:24:07,668 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:07,669 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:07,670 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:07,670 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:07,671 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:07,671 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:07,671 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_integration_tests/test_cache_integration.json не найден. Будет создан новый.
+2025-06-03 13:24:07,672 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:24:07,672 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 75, 'height': 75}
+2025-06-03 13:24:07,672 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 25, 'height': 14}
+2025-06-03 13:24:07,755 - SmartDesktopOrganizer - INFO - desktop_scanner:239 - Сбор информации об элементах в: /app/test_temp_integration_tests/TestDesktopIntegration
+2025-06-03 13:24:07,756 - SmartDesktopOrganizer - INFO - desktop_scanner:280 - Собрана информация о 4 элементах на рабочем столе.
+2025-06-03 13:24:07,756 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:24:07,756 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 75, 'height': 75}
+2025-06-03 13:24:07,756 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 25, 'height': 14}
+2025-06-03 13:24:07,759 - SmartDesktopOrganizer - INFO - classifier:105 - "mysoft" классифицирован как "program" по имени файла.
+2025-06-03 13:24:07,759 - SmartDesktopOrganizer - INFO - classifier:105 - "mygame" классифицирован как "game" по имени файла.
+2025-06-03 13:24:07,759 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:24:07,759 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:24:07,760 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:24:07,760 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'text_files' с позицией 'bottom_right_above_folders' (используется зона 'text_files') и сортировкой 'name_asc'.
+2025-06-03 13:24:07,760 - SmartDesktopOrganizer - INFO - desktop_sorter:267 - Сформирован план размещения для 4 элементов.
+2025-06-03 13:24:56,805 - SmartDesktopOrganizer - INFO - settings:54 - Файл настроек /app/test_temp_integration_tests/test_settings_integration.json не найден. Создан новый файл с настройками по умолчанию.
+2025-06-03 13:24:56,806 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:56,806 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:56,806 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:56,807 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:56,807 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:56,808 - SmartDesktopOrganizer - INFO - settings:64 - Настройки успешно сохранены в /app/test_temp_integration_tests/test_settings_integration.json
+2025-06-03 13:24:56,808 - SmartDesktopOrganizer - INFO - cache_manager:37 - Файл кэша /app/test_temp_integration_tests/test_cache_integration.json не найден. Будет создан новый.
+2025-06-03 13:24:56,808 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:24:56,809 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 75, 'height': 75}
+2025-06-03 13:24:56,809 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 25, 'height': 14}
+2025-06-03 13:24:56,893 - SmartDesktopOrganizer - INFO - desktop_scanner:239 - Сбор информации об элементах в: /app/test_temp_integration_tests/TestDesktopIntegration
+2025-06-03 13:24:56,893 - SmartDesktopOrganizer - INFO - desktop_scanner:280 - Собрана информация о 4 элементах на рабочем столе.
+2025-06-03 13:24:56,893 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:24:56,894 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 75, 'height': 75}
+2025-06-03 13:24:56,894 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 25, 'height': 14}
+2025-06-03 13:24:56,896 - SmartDesktopOrganizer - INFO - classifier:105 - "mysoft" классифицирован как "program" по имени файла.
+2025-06-03 13:24:56,896 - SmartDesktopOrganizer - INFO - classifier:105 - "mygame" классифицирован как "game" по имени файла.
+2025-06-03 13:24:56,896 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'text_files' с позицией 'bottom_right_above_folders' (используется зона 'text_files') и сортировкой 'name_asc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:267 - Сформирован план размещения для 4 элементов.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:59 - Информация об экране установлена: разрешение={'width': 1920, 'height': 1080}, масштаб DPI={'x': 1.0, 'y': 1.0}
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:60 - Размер ячейки иконки (из настроек): {'width': 75, 'height': 75}
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:75 - Расчетные/итоговые размеры сетки (кол-во ячеек): {'width': 25, 'height': 14}
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "mysoft" найдена в кэше: program
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - classifier:96 - Категория для "mygame" найдена в кэше: game
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'folders' с позицией 'bottom_right' (используется зона 'folders') и сортировкой 'name_asc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'games' с позицией 'top_right' (используется зона 'games') и сортировкой 'name_asc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'programs' с позицией 'left_top' (используется зона 'programs') и сортировкой 'date_desc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:251 - Обработка категории 'text_files' с позицией 'bottom_right_above_folders' (используется зона 'text_files') и сортировкой 'name_asc'.
+2025-06-03 13:24:56,897 - SmartDesktopOrganizer - INFO - desktop_sorter:267 - Сформирован план размещения для 4 элементов.

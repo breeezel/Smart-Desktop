@@ -30,12 +30,16 @@ class DesktopSorter:
 
         # grid_size из настроек определяет, сколько ячеек сетки доступно.
         # Если 0, то рассчитывается на основе разрешения экрана и размера ячейки иконки.
-        self.grid_dimensions = self.settings_manager.get_setting('grid_size', {'width': 0, 'height': 0})
+        # Получаем копию, чтобы не изменять состояние в SettingsManager случайно
+        self.grid_dimensions = self.settings_manager.get_setting('grid_size', {'width': 0, 'height': 0}).copy()
 
         logger.debug(f'Настройки макета загружены: effective_icon_cell_size={self.effective_icon_cell_size}, grid_dimensions={self.grid_dimensions}')
 
-    def set_screen_info(self, screen_resolution, dpi_info):
-        self.screen_resolution = screen_resolution
+    def set_screen_info(self, screen_resolution_param, dpi_info): # Renamed param
+        self.screen_resolution = screen_resolution_param # Assign to instance var
+        current_screen_width = self.screen_resolution['width'] # Use local var for calculation
+        current_screen_height = self.screen_resolution['height']
+
         self.dpi_scale['x'] = dpi_info.get('x', 96) / 96.0
         self.dpi_scale['y'] = dpi_info.get('y', 96) / 96.0
 
@@ -55,11 +59,19 @@ class DesktopSorter:
         logger.info(f'Информация об экране установлена: разрешение={self.screen_resolution}, масштаб DPI={self.dpi_scale}')
         logger.info(f'Размер ячейки иконки (из настроек): {self.effective_icon_cell_size}')
 
-        # Рассчитываем grid_dimensions если они не заданы жестко
-        if self.grid_dimensions.get('width', 0) == 0:
-            self.grid_dimensions['width'] = math.floor(self.screen_resolution['width'] / self.effective_icon_cell_size['width'])
-        if self.grid_dimensions.get('height', 0) == 0:
-            self.grid_dimensions['height'] = math.floor(self.screen_resolution['height'] / self.effective_icon_cell_size['height'])
+        # Рассчитываем grid_dimensions если они не заданы жестко в настройках
+        grid_size_setting = self.settings_manager.get_setting('grid_size', {'width': 0, 'height': 0})
+
+        if grid_size_setting.get('width', 0) == 0:
+            self.grid_dimensions['width'] = math.floor(current_screen_width / self.effective_icon_cell_size['width'])
+        else:
+            self.grid_dimensions['width'] = grid_size_setting.get('width')
+
+        if grid_size_setting.get('height', 0) == 0:
+            self.grid_dimensions['height'] = math.floor(current_screen_height / self.effective_icon_cell_size['height'])
+        else:
+            self.grid_dimensions['height'] = grid_size_setting.get('height')
+
         logger.info(f'Расчетные/итоговые размеры сетки (кол-во ячеек): {self.grid_dimensions}')
 
 

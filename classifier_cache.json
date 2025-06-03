@@ -30,5 +30,21 @@
     "invalid_shortcut": {
         "value": "program",
         "timestamp": 1748954796.7764041
+    },
+    "mygame": {
+        "value": "game",
+        "timestamp": 1748955422.3771675
+    },
+    "mycachedgame": {
+        "value": "game",
+        "timestamp": 1748955494.5747714
+    },
+    "obscureapp": {
+        "value": "program",
+        "timestamp": 1748955422.386068
+    },
+    "veryobscure": {
+        "value": "unknown",
+        "timestamp": 1748955422.4091277
     }
 }
